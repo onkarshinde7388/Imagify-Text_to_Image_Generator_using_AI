@@ -1,1 +1,1 @@
-# Imagify---Text-to-Image-Generator-using-AI
+# Imagify_Text-to-Image-Generator-using-AI
