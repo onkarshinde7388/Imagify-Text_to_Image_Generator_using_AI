@@ -11,7 +11,8 @@ const AppContextProvider = (props) => {
     const [token, setToken] = useState(localStorage.getItem("token"))
 
     const [credit, setCredit] = useState(null);
-    const backendUrl = https://imagify-text-to-image-generator-using-ai.onrender.com;
+    const backendUrl = https://imagify-text-to-image-generator-using-ai.onrender.com
+    
     const navigate = useNavigate(); 
     const loadCredits = async() => {
         try {
