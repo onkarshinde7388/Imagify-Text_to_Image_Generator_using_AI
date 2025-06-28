@@ -50,6 +50,7 @@ const AppContextProvider = (props) => {
         localStorage.removeItem("token");
         setToken("");
         setUser(null);
+        navigate("/")
     }
 
     useEffect ( () => {
